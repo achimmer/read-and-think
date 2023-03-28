@@ -2,6 +2,8 @@
 [Home](/README.md) > *Healthcare*
 
 # Healthcare
+
+## Free-Market Healthcare
 <cite>["What’s so bad about fee-for-service health care?"](https://thecannononline.com/whats-so-bad-about-fee-for-service-health-care/?utm_campaign=The%20Daily%20Cannon&utm_medium=email&_hsmi=201823420&_hsenc=p2ANqtz--0uhBePQ8lzF_ZpKYrWuEhU1z_0IXNO63yzuM6US57rZILvvGUBp0amZaUNHzOh10bT5pe3XmqLjqtx6zouTg100oiHw&utm_content=201823420), Jack Brown, January 2017</cite>
 > The present health care system in the United States bears little resemblance to 1926. The once transparent, agreed-upon fees between patient and physician have all but disappeared. Today, payment is no longer agreed to by the patient and the physician. Payment is primarily negotiated between insurers and other payers and not available for patients to see. The rates are not determined by real world market forces, but by formula or by funding levels. Even worse, fees and payments are constrained by coding guidelines and rules such as CPT and ICD-10. Bureaucrats working for such government agencies as HCFA, COBRA, FDA, DHHS, Medicare, and Medicaid, etc. continue to replace freedom in medicine with complex and unintelligible statistical models attempting to determine the “true medical needs” of present and future generations of Americans (2), and the prices for them.
 >
@@ -18,3 +20,7 @@
     * Critical Illness
     * Accidental
     * Cross-state plans*
+
+***
+
+#
