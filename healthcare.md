@@ -11,10 +11,10 @@
 
 
 * Establish free-market healthcare: https://en.wikipedia.org/wiki/Free-market_healthcare
-** Health Care Providers: must disclose, display, and publish the prices for itemized services & procedures.
+    * Health Care Providers: must disclose, display, and publish the prices for itemized services & procedures.
 * Providers are encouraged to offer their own insurance, wellness packages, etc.
 * The role of medical health insurance:
-** Preventative should be 80% - 100% covered
-** Critical Illness
-** Accidental
-** Cross-state plans*
+    * Preventative should be 80% - 100% covered
+    * Critical Illness
+    * Accidental
+    * Cross-state plans*
