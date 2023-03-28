@@ -24,7 +24,7 @@
 ***
 
 ## Reducing medical and drug costs
-![image](media/fda-approval.jpg)
+![image](media/fda-approval.png)
 1. **Establish a transparent, fee-for-service price system** - All costs must be published for services to be provided. Healthcare providers can no longer arbitrarily bill months later (with or without insurance). Patients should be able to quickly and simply shop for procedures and prices.
 2. **Reduce frivolous malpractice lawsuits** - Stop frivolous malpractice lawsuits, caps on rewards for “suffering and pain”
 3. **Simplify and reduce FDA approval** - Reduce and simplify FDA testing requirements (shorten time frame) https://www.instagram.com/p/CgZqar8O_7L/?igshid=YmMyMTA2M2Y= 
