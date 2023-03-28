@@ -31,3 +31,4 @@
 4. **Minimize the role 3rd party payers** - reduce and simplify the way 3rd parties involved in healthcare.
 5. **Eliminate Drug Benefit Managers (DBMs)** - eliminating the need for middlemen who control what and how much a drug costs increases competition and restores the market to control the prices. 
 6. **Streamline education path to medical careers** - increase supply of medical care providers and (i.e. doctors).
+7. **Repeal of the Affordable Healthcare Act 2012 (i.e. Obamacare)** - In order for free-market to operate, the federal government and it's onerous control and overregulation of how it is paid for needs to be removed.
