@@ -24,9 +24,9 @@
 ***
 
 ## Reducing medical and drug costs
-1. *Establish a transparent, fee-for-service price system* - All costs must be published for services to be provided. Healthcare providers can no longer arbitrarily bill months later (with or without insurance). Patients should be able to quickly and simply shop for procedures and prices.
-2. *Reduce frivolous malpractice lawsuits* - Stop frivolous malpractice lawsuits, caps on rewards for “suffering and pain”
-3. *Simplify and reduce FDA approval* - Reduce and simplify FDA testing requirements (shorten time frame) https://www.instagram.com/p/CgZqar8O_7L/?igshid=YmMyMTA2M2Y= 
-4. *Minimize the role 3rd party payers* - reduce and simplify the way 3rd parties involved in healthcare.
-5. *Eliminate Drug Benefit Managers (DBMs)* - eliminating the need for middlemen who control what and how much a drug costs increases competition and restores the market to control the prices. 
-6. *Streamline education path to medical careers* - increase supply of medical care providers and (i.e. doctors).
+1. **Establish a transparent, fee-for-service price system** - All costs must be published for services to be provided. Healthcare providers can no longer arbitrarily bill months later (with or without insurance). Patients should be able to quickly and simply shop for procedures and prices.
+2. **Reduce frivolous malpractice lawsuits** - Stop frivolous malpractice lawsuits, caps on rewards for “suffering and pain”
+3. **Simplify and reduce FDA approval** - Reduce and simplify FDA testing requirements (shorten time frame) https://www.instagram.com/p/CgZqar8O_7L/?igshid=YmMyMTA2M2Y= 
+4. **Minimize the role 3rd party payers** - reduce and simplify the way 3rd parties involved in healthcare.
+5. **Eliminate Drug Benefit Managers (DBMs)** - eliminating the need for middlemen who control what and how much a drug costs increases competition and restores the market to control the prices. 
+6. **Streamline education path to medical careers** - increase supply of medical care providers and (i.e. doctors).
