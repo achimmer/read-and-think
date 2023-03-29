@@ -1,4 +1,3 @@
-#### Read &amp; Think
-[Home](/README.md) > *Defense*
+[Read & Think](/README.md)  > *Defense*
 
 # Defense

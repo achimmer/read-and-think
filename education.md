@@ -1,4 +1,3 @@
-#### Read &amp; Think
-[Home](/README.md) > *Education*
+[Read & Think](/README.md)  > *Education*
 
 # Education

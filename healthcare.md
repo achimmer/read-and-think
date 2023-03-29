@@ -1,4 +1,3 @@
-
 [Read & Think](/README.md) > *Healthcare*
 
 # Healthcare

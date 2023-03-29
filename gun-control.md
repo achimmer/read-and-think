@@ -1,4 +1,3 @@
-#### Read &amp; Think
-[Home](/README.md) > *Gun Control*
+[Read & Think](/README.md) > *Gun Control*
 
 # Gun Control

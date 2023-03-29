@@ -1,4 +1,3 @@
-#### Read &amp; Think
-[Home](/README.md) > *Economy*
+[Read & Think](/README.md)  > *Economy*
 
 # Economy
