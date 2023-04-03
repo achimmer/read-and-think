@@ -22,6 +22,9 @@
 
 ***
 
+<cite>["In healthcare, middlemen are running amok"](https://thecannononline.com/in-healthcare-middlemen-are-running-amok/?utm_campaign=The%20Daily%20Cannon&utm_medium=email&_hsmi=252466671&_hsenc=p2ANqtz-9ANEuspMQX3CaH-oOviaYh2bGzBlpV2onpLqFE-vCIZiy-z52lPjRz61spK2fx5ecnKBocdhTP8B8vvk5nz2xzz3GeRw&utm_content=252466671&utm_source=hs_email), David Balat, March 29, 2023</cite>
+>As PBMs are now using GPOs as a way to shield themselves from scrutiny and accountability, it is incumbent upon anyone who is concerned about the increasing costs of healthcare to look into increasing transparency and accountability of the middlemen in the healthcare supply chain. A 2005 audit by the Office of Inspector General for HHS discovered that six major GPOs charged over $2.3 billion in fees, of which $1.6 billion exceeded their operating expenses. The audits confirmed concerns that excessive administrative fees existed.
+
 ## Reducing medical and drug costs
 ![image](media/fda-approval.png)
 1. **Establish a transparent, fee-for-service price system** - All costs must be published for services to be provided. Healthcare providers can no longer arbitrarily bill months later (with or without insurance). Patients should be able to quickly and simply shop for procedures and prices.
