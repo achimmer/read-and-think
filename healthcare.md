@@ -34,3 +34,4 @@
 5. **Eliminate [Drug Benefit Managers](https://en.wikipedia.org/wiki/Pharmacy_benefit_management) (DBMs / PBMs)** - eliminating the need for middlemen who control what and how much a drug costs. Elimination will increase competition and restore the market control, thus lowering the prices.
 6. **Streamline education path to medical careers** - increase supply of medical care providers and (i.e. doctors).
 7. **Repeal of the [Affordable Healthcare Act 2012](https://en.wikipedia.org/wiki/Affordable_Care_Act) (i.e. Obamacare)** - In order for free-market to operate, the federal government and it's onerous control and overregulation of how it is paid for needs to be removed.
+8. **Private HSA's and Health Plans**
